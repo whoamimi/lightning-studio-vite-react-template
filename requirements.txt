@@ -1,0 +1,14 @@
+# Core web framework
+fastapi
+uvicorn
+
+# Optional: for serving static files and templating
+jinja2
+python-multipart
+
+# (Optional) if you plan to use models or API logic
+pydantic
+requests
+
+# Development utilities
+aiofiles      # for async file serving in FastAPI

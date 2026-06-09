@@ -71,3 +71,13 @@ python main.py
 
 ```
 
+## Lightning AI Studio Community
+
+This template is intended for the Lightning AI Studio community and can be shared there as a reusable starter.
+
+- Community page: https://lightning.ai/community
+- Repository: https://github.com/whoamimi/lightning-studio-vite-react-template
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE`.

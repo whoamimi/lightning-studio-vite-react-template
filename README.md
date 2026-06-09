@@ -80,4 +80,4 @@ This template is intended for the Lightning AI Studio community and can be share
 
 ## License
 
-This project is licensed under the MIT License. See `/home/runner/work/lightning-studio-vite-react-template/lightning-studio-vite-react-template/whoamimi/lightning-studio-vite-react-template/LICENSE`.
+This project is licensed under the MIT License. See `LICENSE`.
